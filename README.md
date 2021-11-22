@@ -1,6 +1,15 @@
 # everest-nlp
 Solve NLP problems for devanagari dataset
 
+
+
+#Demo of the existing modules as of now in everest nlp
+## This is the public version released and the progress in this repo is mantained in private gitlab repo.
+https://user-images.githubusercontent.com/47980452/142859842-e69a68ba-9b3d-4cd1-84d1-74ab33e864af.mp4
+
+
+
+
 Module: sabda2vec
 ## Training custom word2vec model on nepai dataset.
 This repo is for building a custom word2vec model for nepali language. Nepali data set has been collected from several sources like OSCAR corpus and scrapped from several nepali new portals. All of the data collected are in the data folder. 
